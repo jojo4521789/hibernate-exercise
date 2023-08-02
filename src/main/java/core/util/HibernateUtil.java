@@ -1,4 +1,4 @@
-package web.member.util;
+package core.util;
 
 import org.hibernate.SessionFactory;
 import org.hibernate.boot.Metadata;
